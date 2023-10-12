@@ -1,2 +1,0 @@
-# Proposal-doc
-Proposal-doc
